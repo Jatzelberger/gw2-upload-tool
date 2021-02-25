@@ -1,7 +1,17 @@
 # GW2 Upload Tool for ArcDPS
 
 ## Overview
-Coming soon
+![Overview](/images/overview.png)
+
+1. Boss name and status
+2. Log time
+3. Enable/Disable automatic posting (only works when a webhook is set up! See below)
+4. Open Webhook Menu
+5. Post selected log if 6. is empty, else post log entered in 6.
+6. Enter manual dps.report url to post on discord
+7. Open selected log in your browser (via dps.report)
+8. Copy log url to Windows clipboard
+9. Open Settings folder
 
 ## Requirements
 * Windows 10
@@ -21,17 +31,29 @@ Coming soon
 
 **Important:** _compress logs with PowerShell (Win10)_ has to be enabled!
 
-**Upload Tool Setup:**
-1. **Edit Discord Servers**
-coming soon
+**Webhook Setup:**
+1. Open the server you want to post your logs onto
+2. Open _Server Settings_ and go to _Integration_
+3. Now you click on _WebHooks_ and _Create new WebHook_
+4. (Name doesnt matter since it will be overwritten anyways. Just for server-audit identification)
+5. Select a channel you want to post your logs to
+6. Now click on _copy WebHook URL_
+7. Open Upload Tool with double-click on _UploadTool.exe_
+8. Click on the small arrow next to _START_. It should open a small menu
+9. Now enter a webhook name to identify your server and copy your webhook url inside the corresponding text field
+10. Click **+** button to add this server to the server list
+11. (Repeat as many servers as you want)
+12. To select a server just click on its name and press the green arrow button to select it for posting
 
-2. **Change Whitelist**
-After first start there should be created a file inside the config folder called settings.ini
-You can open this file with nearly every editor such as Windows Editor, Notepad++,...
-Within this file you should only change the _whitelist_ settings.
+**Boss Whitelist Setup**
+1. Within Upload Tool, click on the small gear in the bottom right corner (explorer window should be open)
+2. Double click on _settings.ini_
+3. under _[whitelist]_ you can disable automatic posting by settings value from _True_ to _False_
+4. changes need a restart of Upload Tool!
 
-_True_ = boss will be posted automatically whenever a new log is created and its marked as success
-
-_False_ = logs will be ingnored when automatic posting is activated. Manual posting is still enabled!
+## TODO
+- [ ] Redo Bossview from two lists to one table
+- [ ] Fix: _statue of judgement_ is shown as _Dhuum_
 
 ## FAQ
+
