@@ -1,6 +1,8 @@
 # GW2 Upload Tool for ArcDPS
 
 ## Overview
+-> WARNING: This is a pre-release! Errors can occure! <-
+
 ![Overview](/images/overview.png)
 
 1. Boss name and status
@@ -20,8 +22,9 @@
 ## How to install
 1. Download .zip folder from here: comming soon
 2. Extract **ALL** files to a folder you wish (eg. .../desktop/uploadtool/)
-3. Open UploadTool.exe
+3. Open Upload Tool.exe
 4. Read **How to set up**
+5. You can create a shortcut to your desktop by rightclicking on _Upload Tool.exe_ -> _Send to_ -> _Desktop_
 ## How to set up
 **ArcDPS Setup:**
 1. Within GW2, open your ArcDPS config via ALT+SHIFT+T
@@ -38,7 +41,7 @@
 4. (Name doesnt matter since it will be overwritten anyways. Just for server-audit identification)
 5. Select a channel you want to post your logs to
 6. Now click on _copy WebHook URL_
-7. Open Upload Tool with double-click on _UploadTool.exe_
+7. Open Upload Tool with double-click on _Upload Tool.exe_
 8. Click on the small arrow next to _START_. It should open a small menu
 9. Now enter a webhook name to identify your server and copy your webhook url inside the corresponding text field
 10. Click **+** button to add this server to the server list
@@ -56,4 +59,8 @@
 - [ ] Fix: _statue of judgement_ is shown as _Dhuum_
 
 ## FAQ
+**Is it safe to use**
+There should be no problem using Upload Tool, but I can not guarantee for anything!
 
+**Why does it have 90MB?**
+It is programmed in Python, so it has to be shipped with a compiler.
