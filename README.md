@@ -75,6 +75,6 @@ There should be no problem using Upload Tool, but I can not guarantee for anythi
 Since its written in Python is has to be shipped with a compiler to work on any pc
 
 
-**Any questions or requests?**
+**Any questions, bugs or requests?**
 
-Ask me here or ingame via _NightElf.8624_
+Ask me on GitHub or ingame via _NightElf.8624_
