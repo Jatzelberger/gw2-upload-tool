@@ -15,6 +15,9 @@
 8. Copy log url to Windows clipboard
 9. Open Settings folder
 
+## Example
+![Discord Example](/images/discord.png)
+
 ## Requirements
 * Windows 10
 * Latest ArcDPS build from here: [Deltaconnected](https://www.deltaconnected.com/arcdps/x64/)
