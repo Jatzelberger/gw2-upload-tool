@@ -57,6 +57,7 @@
 ## TODO
 - [ ] Redo Bossview from two lists to one table
 - [ ] Fix: _statue of judgement_ is shown as _Dhuum_
+- [ ] Add support to uncompressed .evtc files
 
 ## FAQ
 **Is it safe to use?**
