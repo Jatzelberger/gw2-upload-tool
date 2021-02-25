@@ -51,16 +51,18 @@
 11. (Repeat as many servers as you want)
 12. To select a server just click on its name and press the green arrow button to select it for posting
 
-**Boss Whitelist Setup**
+**Boss Whitelist Setup:**
 1. Within Upload Tool, click on the small gear in the bottom right corner (explorer window should be open)
 2. Double click on _settings.ini_
 3. under _[whitelist]_ you can disable automatic posting by settings value from _True_ to _False_
 4. changes need a restart of Upload Tool!
+5. Currently, only Raids are supported by automatic posting. Link generation works with every boss! Formatting of Discord message could look weird with everything else
 
 ## TODO
 - [ ] Redo Bossview from two lists to one table
 - [ ] Fix: _statue of judgement_ is shown as _Dhuum_
 - [ ] Add support to uncompressed .evtc files
+- [ ] Add support for fractals and strike missions
 
 ## FAQ
 **Is it safe to use?**
@@ -68,9 +70,9 @@
 There should be no problem using Upload Tool, but I can not guarantee for anything!
 
 
-**Why does it have 90MB?**
+**Why is it 90MB?**
 
-It is programmed in Python, so it has to be shipped with a compiler.
+Since its written in Python is has to be shipped with a compiler to work on any pc
 
 
 **Any questions or requests?**
