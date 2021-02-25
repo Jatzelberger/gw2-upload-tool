@@ -59,11 +59,16 @@
 - [ ] Fix: _statue of judgement_ is shown as _Dhuum_
 
 ## FAQ
-**Is it safe to use**
+**Is it safe to use?**
+
 There should be no problem using Upload Tool, but I can not guarantee for anything!
 
+
 **Why does it have 90MB?**
+
 It is programmed in Python, so it has to be shipped with a compiler.
 
+
 **Any questions or requests?**
+
 Ask me here or ingame via _NightElf.8624_
