@@ -17,10 +17,10 @@
 
 ## Requirements
 * Windows 10
-* Latest ArcDPS build from [here](https://www.deltaconnected.com/arcdps/x64/)
+* Latest ArcDPS build from here: [Deltaconnected](https://www.deltaconnected.com/arcdps/x64/)
 * Latest Guild Wars 2 build
 ## How to install
-1. Download .zip folder from here: comming soon
+1. Download .zip folder from here: [Download](https://github.com/Jatzelberger/gw2-uploadtool/releases/tag/v1.0-Beta)
 2. Extract **ALL** files to a folder you wish (eg. .../desktop/uploadtool/)
 3. Open Upload Tool.exe
 4. Read **How to set up**
