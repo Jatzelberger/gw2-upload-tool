@@ -25,7 +25,7 @@
 * Latest ArcDPS build from here: [Deltaconnected](https://www.deltaconnected.com/arcdps/x64/)
 * Latest Guild Wars 2 build
 ## How to install
-1. Download .zip folder from here: [Download](https://github.com/Jatzelberger/gw2-uploadtool/releases/tag/v1.0-Beta)
+1. Download .zip folder from here: [Download](https://github.com/Jatzelberger/gw2-upload-tool/releases)
 2. Extract **ALL** files to a folder you wish (eg. .../desktop/uploadtool/)
 3. Open _UploadTool.exe_
 4. Read **How to set up**
