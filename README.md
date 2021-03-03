@@ -65,6 +65,7 @@
 - [ ] Fix: _statue of Fate_ is shown as _Dhuum_
 - [ ] Add support to uncompressed .evtc files
 - [ ] Add support for fractals and strike missions
+- [ ] Fix icon bugs when Windows Scale is above 100%
 
 ## FAQ
 **Is it safe to use?**
