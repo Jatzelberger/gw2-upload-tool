@@ -28,7 +28,7 @@
 1. Download .zip folder from here: [Download](https://github.com/Jatzelberger/gw2-upload-tool/releases)
 2. Extract **ALL** files to a folder you wish (eg. .../desktop/uploadtool/)
 3. Open _UploadTool.exe_
-4. Read **How to set up**
+4. Read [How to set up](https://github.com/Jatzelberger/gw2-upload-tool#how-to-set-up)
 5. You can create a shortcut to your desktop by rightclicking on _UploadTool.exe_ -> _Send to_ -> _Desktop_
 ## How to set up
 **ArcDPS Setup:**
