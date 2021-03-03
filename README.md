@@ -61,9 +61,9 @@
 5. Currently, only Raids are supported by automatic posting. Link generation works with every boss! Formatting of Discord message could look weird with everything else
 
 ## TODO
-- [ ] Redo Bossview from two lists to one table (bugs occure when to many logs are listed)
+- [ ] Redo BossView from two lists to one table (bugs occure when to many logs are listed)
 - [ ] Fix: _statue of Fate_ is shown as _Dhuum_
-- [ ] Add support to uncompressed .evtc files
+- [ ] Add support for uncompressed .evtc files
 - [ ] Add support for fractals and strike missions
 - [ ] Fix icon bugs when Windows Scale is above 100%
 
