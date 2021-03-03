@@ -1,7 +1,7 @@
 # GW2 Upload Tool for ArcDPS
 
 ## Overview
-**-> WARNING: This is a pre-release! Errors can occure! <-**
+**-> WARNING: This is a pre-release! Errors can occure! Please report crashes and bugs via GitHub, thank you!<-**
 
 **-> Tool may be shown as untrusted File by AntiVirus <-**
 
